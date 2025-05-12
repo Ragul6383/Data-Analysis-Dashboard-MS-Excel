@@ -65,4 +65,4 @@ Strategic actions may include:
 ---
 
 ## 📌 Tools Used
-- Microsoft Excel (Pivot Tables, Charts, Slicers, Dashboard)
+- Microsoft Excel (Pivot Tables, Charts, Slicers)
