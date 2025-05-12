@@ -6,7 +6,8 @@ An interactive dashboard project using **Microsoft Excel** to analyze the annual
 
 ## 📁 Dataset Used
 - Annual sales dataset from Vrinda Store (2022)
--Dataset - (https://github.com/Ragul6383/Data-Analysis-Dashboard-MS-Excel/blob/main/Vrinda%20Store%20Data%20Analysis%20work.xlsx)
+- [Dataset Link](https://github.com/Ragul6383/Data-Analysis-Dashboard-MS-Excel/blob/main/Vrinda%20Store%20Data%20Analysis%20work.xlsx)
+
 ---
 
 ## 🎯 Project Objective
