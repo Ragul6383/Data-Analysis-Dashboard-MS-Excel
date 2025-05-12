@@ -1,4 +1,4 @@
-# 📊 Vrinda Store Data Analysis (2022)
+# 📊 Vrinda Store Data Analysis 
 
 An interactive dashboard project using **Microsoft Excel** to analyze the annual sales data of **Vrinda Store** for the year 2022. The goal is to help the store owner understand customer trends and improve sales in 2023 and 2024.
 
